@@ -34,14 +34,12 @@
             </div>
           </li>
         </ul>
-        <form class="form-inline my-2 my-md-0">
-          <input class="form-control" type="text" placeholder="Search" aria-label="Search">
-        </form>
       </div>
     </nav>
     <h1 class="display-4 text-center">Mon premier projet en partage sur Github</h1>
     <hr>
     <p>J'ai vraiment la poisse aujourd'hui</p>
+    <h2>Nouveau titre de fin de journée Github</h2>
     
     <!-- Script -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
